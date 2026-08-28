@@ -239,15 +239,22 @@ This experience directly informed our decision to design for extra internal clea
 ## 6. Photos and Video Demonstrations
 
 ### 6.1 Required Photos
-- Vehicle — front view
-- Vehicle — rear view
-- Vehicle — left side view
-- Vehicle — right side view
-- Vehicle — top view
-- Vehicle — bottom view
 - Team photo
+  <img width="1280" height="960" alt="photo_2026-08-28_14-54-29" src="https://github.com/user-attachments/assets/57bb75e5-9713-48f3-88cc-5026171fd9ac" />
+  
+- Front side
+  <img width="4032" height="3024" alt="IMG_8092" src="https://github.com/user-attachments/assets/f6cc348d-d787-4123-b148-7f806f56c99d" />
+- Back Side
+  <img width="4032" height="3024" alt="IMG_8101" src="https://github.com/user-attachments/assets/61f19d81-04a1-4880-8a73-8d39bb74dccf" />
+- Above
+  <img width="4032" height="3024" alt="IMG_8094" src="https://github.com/user-attachments/assets/4c2090c6-e494-4e5e-8571-a6fa91a6c560" />
+- Bottom
+  <img width="4032" height="3024" alt="IMG_8102" src="https://github.com/user-attachments/assets/422b9ee8-ad6a-40bf-b2ab-ab48b28f5f5b" />
+- Left Side
+  <img width="4032" height="3024" alt="IMG_8098" src="https://github.com/user-attachments/assets/12210211-723f-4efe-8ea4-279dc5a33cdf" />
+- Right Side
+  <img width="4032" height="3024" alt="IMG_8100" src="https://github.com/user-attachments/assets/610e2716-837f-4a71-b641-28d5d480b344" />
 
-*[ Insert photos here ]*
 
 ### 6.2 Video Demonstrations
 Per WRO documentation rules, one YouTube video (public or unlisted/link-accessible) is required for **each** challenge, with a driving demonstration segment at least 30 seconds long.
