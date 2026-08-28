@@ -1,4 +1,4 @@
-# WRO2026_Compass
+w# WRO2026_Compass
 # Team Compass — WRO 2026 Future Engineers: Self-Driving Cars Challenge
 
 **Country:** Cambodia
@@ -259,8 +259,11 @@ This experience directly informed our decision to design for extra internal clea
 ### 6.2 Video Demonstrations
 Per WRO documentation rules, one YouTube video (public or unlisted/link-accessible) is required for **each** challenge, with a driving demonstration segment at least 30 seconds long.
 
-- **Open Challenge video:** `[ TBD ]`
+- **Open Challenge video:** `
+https://youtu.be/FjARO7ldRJU
+
 - **Obstacle Challenge video:** `[ TBD ]`
+https://youtu.be/bZQAO0thAtA
 
 ---
 
