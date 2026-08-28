@@ -1,0 +1,18 @@
+{
+  "report": {
+    "focal_px": 600.0,
+    "capture": [
+      640,
+      480
+    ],
+    "hfov_deg": 56.1,
+    "vfov_deg": 43.6,
+    "model_scale": 0.5,
+    "blind_zone_mm": 220,
+    "max_detection_mm": 2500,
+    "usable_window_mm": [
+      400,
+      2500
+    ]
+  }
+}
