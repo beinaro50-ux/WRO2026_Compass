@@ -262,7 +262,7 @@ Per WRO documentation rules, one YouTube video (public or unlisted/link-accessib
 - **Open Challenge video:** `
 https://youtu.be/FjARO7ldRJU
 
-- **Obstacle Challenge video:** `[ TBD ]`
+- **Obstacle Challenge video:** `
 https://youtu.be/bZQAO0thAtA
 
 ---
